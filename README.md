@@ -1,6 +1,6 @@
 # Data Analysis - Online VS Offline Shopping
 
-**Tools & Skills** - Python, Excel, Data Cleaning & Wrangling, Data Visualization, Machine Learning, Sampling Methods
+**Tools & Skills** - Python, Excel, Data Cleaning & Wrangling, Data Visualization, Machine Learning, Sampling Methods, Google Forms
 
 **Libraries** - Pandas, Numpy, Seaborn, Matplotlib
 
